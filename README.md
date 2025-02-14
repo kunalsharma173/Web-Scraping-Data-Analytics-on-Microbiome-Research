@@ -44,10 +44,12 @@ This project **automates web scraping** to extract and analyze **scientific arti
 📉 **Visualization 2**: Identifying leading researchers in the microbiome field  
 
 ## 📌 Results  
-📊 **Key Takeaways:**  
-- **Emerging Trends:** Research focus has shifted towards [Insert Key Trend].  
-- **Most Cited Authors:** [Insert Notable Authors] contributed the most publications.  
-- **Keyword Evolution:** Increase in topics related to [Insert Observation].  
+**Most Cited Authors:** 
+- ![image](https://github.com/user-attachments/assets/b7351526-4e10-40c2-ab0e-a447e207b8c7)
+
+**Keyword Evolution:** 
+- ![image](https://github.com/user-attachments/assets/4728f266-d243-413c-b998-a2b81946795f)
+
 
 ## 📡 Future Scope  
 🚀 **Expand web scraping to multiple microbiome journals**  
